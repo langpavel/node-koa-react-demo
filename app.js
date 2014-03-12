@@ -1,6 +1,6 @@
 
 var koa = require('koa');
-var session = require('koa-session');
+var session = require('koa-session-redis');
 
 
 var app = koa();

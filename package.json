@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "koa": "~0.5.1",
-    "koa-session": "~2.0.0"
+    "koa-session-redis": "~1.0.1"
   }
 }
