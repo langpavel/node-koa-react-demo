@@ -1,15 +1,5 @@
-# WARNING
-
-Work in progress, not usable right now
-
-
-# node-koa-react-demo
-
-Node.js + Koa + React Demo Application
-
-
-
-# LICENCE
+Internet Systems Consortium license
+===================================
 
 Copyright (c) 2014, Pavel Lang <langpavel@gmail.com>
 
