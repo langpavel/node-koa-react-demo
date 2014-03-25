@@ -9,7 +9,13 @@
   "author": "Pavel Lang <langpavel@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "koa": "~0.5.1",
-    "koa-session-redis": "~1.0.1"
+    "envify": "^1.2.1",
+    "koa": "^0.5.1",
+    "koa-favicon": "^1.0.1",
+    "koa-render": "^0.2.1",
+    "koa-session-redis": "^1.0.1",
+    "koa-static": "^1.4.3",
+    "react": "^0.10.0",
+    "react-tools": "^0.10.0"
   }
 }
